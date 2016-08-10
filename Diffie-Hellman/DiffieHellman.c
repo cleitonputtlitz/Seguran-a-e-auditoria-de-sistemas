@@ -32,5 +32,5 @@ int calcular(int base, int expoente, int modulo){
 		potencia *= base;
 		contador += 1;
 	}
-	return potencia % 11;
+	return potencia % modulo;
 }
