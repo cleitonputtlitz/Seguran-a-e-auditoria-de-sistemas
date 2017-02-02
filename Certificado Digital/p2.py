@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 import hashlib
 from Crypto.PublicKey import RSA
 from hashlib import sha256
